@@ -1,0 +1,5 @@
+F:\Cursor Projects\MCPK-Auto-Livesplit\obj\Debug\net7.0-windows\MinecraftAutoSplitter.GeneratedMSBuildEditorConfig.editorconfig
+F:\Cursor Projects\MCPK-Auto-Livesplit\obj\Debug\net7.0-windows\MinecraftAutoSplitter.AssemblyInfoInputs.cache
+F:\Cursor Projects\MCPK-Auto-Livesplit\obj\Debug\net7.0-windows\MinecraftAutoSplitter.AssemblyInfo.cs
+F:\Cursor Projects\MCPK-Auto-Livesplit\obj\Debug\net7.0-windows\MinecraftAutoSplitter.csproj.CoreCompileInputs.cache
+F:\Cursor Projects\MCPK-Auto-Livesplit\obj\Debug\net7.0-windows\MinecraftAutoSplitter.sourcelink.json

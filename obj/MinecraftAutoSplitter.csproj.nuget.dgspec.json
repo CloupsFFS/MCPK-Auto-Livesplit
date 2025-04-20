@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\Cursor Projects\\MCPK-Auto-Livesplit\\MinecraftAutoSplitter.csproj": {}
+  },
+  "projects": {
+    "F:\\Cursor Projects\\MCPK-Auto-Livesplit\\MinecraftAutoSplitter.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\Cursor Projects\\MCPK-Auto-Livesplit\\MinecraftAutoSplitter.csproj",
+        "projectName": "MinecraftAutoSplitter",
+        "projectPath": "F:\\Cursor Projects\\MCPK-Auto-Livesplit\\MinecraftAutoSplitter.csproj",
+        "packagesPath": "C:\\Users\\cleme\\.nuget\\packages\\",
+        "outputPath": "F:\\Cursor Projects\\MCPK-Auto-Livesplit\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\cleme\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0-windows"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0-windows7.0": {
+            "targetAlias": "net9.0-windows",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.200"
+      },
+      "frameworks": {
+        "net9.0-windows7.0": {
+          "targetAlias": "net9.0-windows",
+          "dependencies": {
+            "System.Runtime.InteropServices": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
